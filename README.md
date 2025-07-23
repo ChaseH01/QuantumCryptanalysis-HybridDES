@@ -130,28 +130,23 @@ This demonstrates a **successful implementation of Grover’s Algorithm**: the a
 **Figure 1**  
 _Bloch spheres showing the initial state of the 4 qubits:_
 
-![Bloch Spheres – Initial State](./images/bloch_spheres.png)
+![Bloch Spheres – Initial State](./images/bloch_multivector.png)
 
 **Figure 2**  
 _3D representation of the quantum statevector prior to measurement:_
 
-![3D Statevector](./images/statevector.png)
+![3D Statevector](./images/state_city.png)
 
 ---
 
 ### 📈 After Simulation / Measurement
 
 **Figure 3**  
-_Frequency each possible state was observed after running the circuit 1024 times:_
-
-![Grover State Frequencies](./images/frequency_plot.png)
-
-**Figure 4**  
 _Histogram of the measurement results showing amplification of `|1011⟩`:_
 
-![Histogram of Results](./images/histogram.png)
+![Histogram of Results](./images/grover_histogram.png)
 
-**Figure 5**  
+**Figure 4**  
 _Final Grover circuit with gates as observed post-measurement:_
 
 ![Grover Circuit Diagram](./images/grover_circuit.png)
