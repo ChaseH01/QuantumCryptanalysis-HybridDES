@@ -2,6 +2,8 @@
 I built a small scale DES (only one iteration instead of 16) and then built a quantum simulation to crack the encryption using Grover's Algorithm:
 Please see full report for more details: [📄 View Full Project Report (PDF)](./report.pdf)
 
+Note: AI was used to convert report from Word docx to markdown for README
+
 ## 🔐 Algorithm Recap: HBEA Structure
 
 ### 🧠 High-Level Summary
